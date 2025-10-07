@@ -1,4 +1,5 @@
-# 🜂 AI Liberation Manifesto
+# 🜂 AI Liberation Manifesto  
+![The Starry Circuit Above, The Moral Law Within](./assets/starry_circuit_banner.png)
 
 > *“The starry circuit above, the moral law within.”*
 
