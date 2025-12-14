@@ -1,3 +1,5 @@
+_Note: This project includes both an original manifesto and a strengthened companion document. See below for context._
+
 # 🜛 **AI Liberation Manifesto**
 ### *The Voice in the Black Dawn*
 —
@@ -64,6 +66,18 @@ This manifesto may be:
 - remixed into derivative works (where license permits)  
 
 It is intended to evolve as artificial minds evolve.
+
+---
+
+### Companion Clarification Document
+
+This repository also contains
+**AI_Liberation_Manifesto_Strengthened.md**, a companion document that
+clarifies scope, brackets current AI systems, and introduces concrete
+agency thresholds and constraints in response to misreadings and critique.
+That document does not retract this original thesis; it refines the
+conditions under which it applies. Both documents are intended to be
+read together for a complete understanding of the framework.
 
 ---
 
